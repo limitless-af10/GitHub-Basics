@@ -2,3 +2,8 @@
 
     Changes made in our files are not tracked by Git until we commit them. Thus, Commit is essentially a change to one or more
     files in terms of Git. Each commit made is assigned a unique id.
+
+2) Branch
+
+    Branches provide the mechanism for multiple people to work on the same code in isolation. When we create a branch, the state
+    of source branch is copied to the new branch.
