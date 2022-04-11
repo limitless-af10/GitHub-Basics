@@ -7,3 +7,5 @@
 
     Branches provide the mechanism for multiple people to work on the same code in isolation. When we create a branch, the state
     of source branch is copied to the new branch.
+
+    Note: The new branch is independent and changes made in it do not affect the source branch.
