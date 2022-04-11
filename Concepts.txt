@@ -1,0 +1,4 @@
+1) Commit
+
+    Changes made in our files are not tracked by Git until we commit them. Thus, Commit is essentially a change to one or more
+    files in terms of Git. Each commit made is assigned a unique id.
